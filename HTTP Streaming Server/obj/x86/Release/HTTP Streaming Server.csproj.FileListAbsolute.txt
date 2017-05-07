@@ -1,0 +1,4 @@
+c:\users\shahadul alam\documents\visual studio 2010\Projects\HTTP Streaming Server\HTTP Streaming Server\bin\Release\HTTP Streaming Server.exe
+c:\users\shahadul alam\documents\visual studio 2010\Projects\HTTP Streaming Server\HTTP Streaming Server\bin\Release\HTTP Streaming Server.pdb
+c:\users\shahadul alam\documents\visual studio 2010\Projects\HTTP Streaming Server\HTTP Streaming Server\obj\x86\Release\HTTP Streaming Server.exe
+c:\users\shahadul alam\documents\visual studio 2010\Projects\HTTP Streaming Server\HTTP Streaming Server\obj\x86\Release\HTTP Streaming Server.pdb

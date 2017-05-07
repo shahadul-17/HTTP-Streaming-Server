@@ -1,0 +1,7 @@
+mp4=video/mp4
+mp4a=audio/mp4
+3gp=video/3gpp
+oga=audio/ogg
+weba=audio/webm
+webm=video/webm
+mp3=audio/mp3
