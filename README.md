@@ -9,5 +9,4 @@ Simplified implementation of HTTP streaming server written from scratch using C#
 
 # Notes
 1) This project is not stable yet.  
-2) The file "content-types.txt" needs to be in the same directory as the executable file.  
 2) The purpose of this project is to provide basic understanding of streaming over Hypertext Transfer Protocol (HTTP).  
